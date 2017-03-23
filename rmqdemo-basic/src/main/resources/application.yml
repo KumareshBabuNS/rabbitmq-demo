@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rmqdemo-basic
+
+app:
+  queueName: basicpipe
+  exchangeName: basicnode
